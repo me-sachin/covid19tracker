@@ -1,5 +1,5 @@
 # covid19tracker
-This  covid-19 tracker application simply fetches the data from the covid API with the help of volley library,which makes the request and gets the information, and shows it in our recycler view and to the users.
+This  covid-19 tracker  application simply fetches the data from the covid API with the help of volley library,which makes the request and gets the information, and shows it in our recycler view and to the users.
 
 ![covid 19 tracker 1](https://user-images.githubusercontent.com/68479220/155330129-4c953a8f-f745-484b-b107-99dbded04771.gif)
 
